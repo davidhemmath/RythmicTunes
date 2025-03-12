@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Adiye",
+      "singer": "G.V. Prakash Kumar",
+      "genre": "Romantic",
+      "imgUrl": "https://img.youtube.com/vi/2NrpwkyoTrI/maxresdefault.jpg",
+      "songUrl": "Songs/Adiye.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Jalabulajangu",
+      "singer": "Anirudh Ravichander",
+      "genre": "Folk",
+      "imgUrl": "https://static.qobuz.com/images/covers/db/ee/bnlcij50keedb_600.jpg",
+      "songUrl": "Songs/Jalabulajangu.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Golden Sparrow",
+      "singer": "GV Prakash",
+      "genre": "Melody",
+      "imgUrl": "https://i.ytimg.com/vi/AAq06bS8UZM/maxresdefault.jpg",
+      "songUrl": "Songs/GoldenSparrow.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Two Two Two",
+      "singer": "Anirudh Ravichander",
+      "genre": "Dance",
+      "imgUrl": "https://i.ytimg.com/vi/MJmxdlCtFWU/maxresdefault.jpg",
+      "songUrl": "Songs/TwoTwoTwo.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Pachigalam Paravaigalam",
+      "singer": "G.V. Prakash Kumar",
+      "genre": "Melody",
+      "imgUrl": "https://i.ytimg.com/vi/oZ0iDJsDB_o/maxresdefault.jpg",
+      "songUrl": "Songs/Pachigalam.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Water Packet",
+      "singer": "A.R. Rahman",
+      "genre": "Fun",
+      "imgUrl": "https://songslyric.in/wp-content/uploads/2024/05/Water-Packet-Lyrics-RAAYAN-2024-Dhanush-A.R.-Rahman-Raayan-Second-Single.jpg",
+      "songUrl": "Songs/WaterPacket.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 6,
+      "title": "Two Two Two",
+      "imgUrl": "https://i.ytimg.com/vi/MJmxdlCtFWU/maxresdefault.jpg",
+      "genre": "Dance",
+      "songUrl": "Songs/TwoTwoTwo.mp3",
+      "singer": "Anirudh Ravichander",
+      "id": 1
+    },
+    {
+      "itemId": 4,
+      "title": "Golden Sparrow",
+      "imgUrl": "https://i.ytimg.com/vi/AAq06bS8UZM/maxresdefault.jpg",
+      "genre": "Melody",
+      "songUrl": "Songs/GoldenSparrow.mp3",
+      "singer": "GV Prakash",
+      "id": 2
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 1,
+      "title": "Adiye",
+      "imgUrl": "https://img.youtube.com/vi/2NrpwkyoTrI/maxresdefault.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Adiye.mp3",
+      "singer": "G.V. Prakash Kumar",
+      "id": 1
+    }
+  ]
+}
